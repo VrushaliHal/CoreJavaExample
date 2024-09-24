@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="selenium-server-4.23.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/selenium-server-4.23.0.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-4.23.0" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Vrushali Haldankar/06. Selenium WebDriver/testng-6.7.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Vrushali Haldankar/Data/poi-5.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-4.23.0" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.23.0" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.23.0" recursive="false" type="SOURCES" />
+  </library>
+</component>

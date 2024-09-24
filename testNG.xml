@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite [
+        <!ELEMENT suite (test)*>
+        <!ATTLIST suite
+                name CDATA #REQUIRED>
+        <!ELEMENT test (classes)*>
+        <!ATTLIST test
+                name CDATA #REQUIRED>
+        <!ELEMENT classes (class)*>
+        <!ELEMENT class (#PCDATA)>
+        <!ATTLIST class
+                name CDATA #REQUIRED>
+        ]>
+<suite name="DemoPurpose">
+    <test name="LoginTest">
+        <classes>
+            <class name="ExcelDataProviderFormat"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
